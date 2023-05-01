@@ -1,2 +1,2 @@
 # manhattan-project
-Manhattan Project Demo
+Manhattan Project
